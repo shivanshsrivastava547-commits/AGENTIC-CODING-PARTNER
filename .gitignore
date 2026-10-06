@@ -1,0 +1,20 @@
+# Python
+**/__pycache__/
+*.pyc
+backend/venv/
+
+# Env
+.env
+backend/.env
+
+# Database / embeddings / cloned repos
+backend/chroma_db/
+backend/repos/
+
+# Node modules
+**/node_modules/
+
+# Logs/build
+*.log
+dist/
+build/
