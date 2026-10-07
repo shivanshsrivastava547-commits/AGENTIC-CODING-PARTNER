@@ -319,14 +319,15 @@ Contributions are welcome.
 
 <div align="center">
 
-Built by **[Ashay Tiwari](https://linkedin.com/in/ashay-tiwari-55a0b727b)**
+Built by **[SHIVANSH SRIVASTAVA](https://www.linkedin.com/in/shivansh-srivastava-22a4b63a7/)**
 
-*AI Engineer · Full Stack Developer · GenAI Systems*
+*AI Engineer · GenAI Systems*
 
-[![GitHub](https://img.shields.io/badge/GitHub-ashaytiwari--repo-181717?style=flat-square&logo=github)](https://github.com/ashaytiwari-repo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ashay_Tiwari-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ashay-tiwari-55a0b727b)
-[![Email](https://img.shields.io/badge/Email-ashaytiwari7@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashaytiwari7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-shivanshsrivastava547--commits-181717?style=flat-square&logo=github)](https://github.com/shivanshsrivastava547-commits)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivansh_Srivastava-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shivansh-srivastava-22a4b63a7)
+
+[![Email](https://img.shields.io/badge/shivanshsrivastava547@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shivanshsrivastava547@gmail.com)
 <br/>
 
 *If DevGraph AI saved you time, give it a ⭐*
